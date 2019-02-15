@@ -1,6 +1,6 @@
 # PhoenixCore (3.3.5)
 
-## Introdución
+## Introducción
 
 PhoenixCore está basado en TrinityCore, el cual es un derivado de *MaNGOS*.
 Es importante saber que el proyecto no intenta reemplazar a los proyectos padre (TrinityCore y MaNGOS),
